@@ -9,4 +9,4 @@ RUN apt-get install -yqq make
 
 EXPOSE 5555
 
-VULUME ["/opt/code"]
+VOLUME ["/opt/code"]
